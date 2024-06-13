@@ -3,6 +3,7 @@ package com.learn2code.microservices;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 @SpringBootApplication
 public class MicroservicesApplication {
 
